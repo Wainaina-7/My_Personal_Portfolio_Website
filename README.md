@@ -2,3 +2,4 @@
 1.Create a HTML file called index.html
 2.Create CSS directory and the create a css file called style.css.
 Link the css to the HTML file.
+Create  div containers for the entire page,navigation section and content section in the index.html file.
